@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @1shikasarda
 - 👀 I’m interested in developing my coding skills and to take part in various hackathons held here.
 - 🌱 I’m currently persuing my Btech in Cyber Security
-- 📫 How to reach me www.linkedin.com/in/
-vanshika-sarda-b66022261
+- 📫 How to reach me www.linkedin.com/in/vanshika-sarda-b66022261
 
 
 <!---
